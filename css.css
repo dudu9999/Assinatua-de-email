@@ -1,0 +1,57 @@
+.barra{ border-right:1px solid #45668e; }
+/*
+	style="color: #8d8d8d; text-decoration: none; font-family: sans-serif;"
+*/
+.photo{
+	border-radius: 12px;
+	width: 135px;
+	height:auto;
+	max-width: 300px;
+}
+
+.corpo-right{
+	 text-align:initial;
+	 font:12px Arial;
+	 color:#646464;
+	 padding: 15px 15px 15px 5px;
+}
+
+.cel-email{
+	width: 470px;
+	margin-top:5px; 
+	width: 470px; 
+	border: 0px; 
+	cellspacing: 0px; 
+	cellpadding: 0px;
+}
+
+.icon-link{
+	width: 30px;
+    height: 30px;
+}
+
+span{
+	color: #45668e;
+	display: inline-block;
+	width: 100%;
+	/*margin-top: 10px;*/
+	/*margin-bottom: 10px;*/
+}
+
+a{
+	color: #8d8d8d;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+.div-nome-work{
+	margin-bottom: 7px;	
+}
+.div-cel-email{
+	margin-bottom: 7px;	
+}
+.site-city{
+	margin-bottom: 7px;	
+}
+.icons{
+	margin-bottom: 7px;	
+}
